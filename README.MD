@@ -1,5 +1,10 @@
 A simple Ruby gem example for testing its usage in an IRB console
 
+```Build
+gem build sample_gem.gemspec
+gem install ./sample_gem-0.1.0.gem
+```
+
 ```bash
 irb
 ```
